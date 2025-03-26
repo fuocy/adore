@@ -1,21 +1,21 @@
 module.exports = {
-    name: "K&G Landscape Maintenance",
-    email: "kglandscapemaintenancellc@gmail.com",
-    phoneForTel: "971-235-0854",
-    phoneFormatted: "(971) 235-0854",
+    name: "Adore Landscapes",
+    email: "adore.landscapes@gmail.com",
+    phoneForTel: "07769328001",
+    phoneFormatted: "+44 7769 328001",
     address: {
         lineOne: "First Address Line",
         lineTwo: "Second Address Line",
-        city: "Milwaukie",
-        state: "Oregon",
+        city: "Alton",
+        state: "Hampshire",
         zip: "80206",
         country: "US",
         mapLink: "https://maps.app.goo.gl/KUX9e7nqUq4BmmtN6",
     },
     socials: {
-        facebook: "https://www.facebook.com/kglandscapemaintenance",
-        instagram: "https://www.instagram.com/kglandscapemaintenancellc",
+        facebook: "https://www.facebook.com/adorelandscapes/",
+        instagram: "https://www.instagram.com/adore_landscapes/",
     },
     //! Make sure you include the file protocol (e.g. https://) and that NO TRAILING SLASH is included
-    domain: "https://kglandscapemaintenance.netlify.app",
+    domain: "https://adorelandscape.netlify.app",
 };
